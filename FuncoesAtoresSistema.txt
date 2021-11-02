@@ -1,0 +1,16 @@
+Admin
+  - Cadastrar
+    * Modulos
+    * Profissionais (Administrativos, Instrutores)
+    * Salas
+    * Viaturas
+
+Profissional Administrativo
+  - Cadastrar
+    * Estudantes
+    * Aulas
+
+Estudante
+  - Inscrever-se em aulas
+  - Marcar aulas de condução
+  - Desmarcar aulas de condução
