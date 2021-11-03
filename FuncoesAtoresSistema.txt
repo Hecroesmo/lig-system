@@ -1,16 +1,41 @@
 Admin
   - Cadastrar
     * Modulos
-    * Profissionais (Administrativos, Instrutores)
+    * Profissionais (Administrativos, Instrutores, Mecânicos)
+    * Salas
+    * Viaturas
+
+  - Editar
+    * Modulos
+    * Profissionais (Administrativos, Instrutores, Mecânicos)
+    * Salas
+    * Viaturas
+
+  - Deletar
+    * Modulos
+    * Profissionais (Administrativos, Instrutores, Mecânicos)
     * Salas
     * Viaturas
 
 Profissional Administrativo
-  - Cadastrar
-    * Estudantes
+  _ Inscrever estudantes em aulas.
+  _ Marcar aulas de condução para os estudantes.
+  _ Desmarcar aulas de condução para os estudantes.
+  _ Realizar pagamento para estudantes.
+  _ Consultar saldo para estudantes.
+
+  _ Cadastrar
+    * Estudante (Matricular)
     * Aulas
 
+Instrutor					
+  _ Marcar alunos presente em uma aula.
+
 Estudante
-  - Inscrever-se em aulas
-  - Marcar aulas de condução
-  - Desmarcar aulas de condução
+  - Inscrever-se em aulas.
+  - Marcar aulas de condução.
+  - Desmarcar aulas de condução.
+  - Realizar pagamento.
+  - Consultar saldo.
+  - Alterar palavra passe.
+
