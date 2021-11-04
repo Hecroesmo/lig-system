@@ -3,3 +3,6 @@
 # ignore all file-name.temp files
 
 *.temp
+
+# ignore file the start with ~ and end with .docx
+~*.docx
