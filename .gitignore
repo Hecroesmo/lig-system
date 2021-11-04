@@ -4,5 +4,5 @@
 
 *.temp
 
-# ignore file the start with ~ and end with .docx
-~*.docx
+# ignore file the start with ~
+~*
